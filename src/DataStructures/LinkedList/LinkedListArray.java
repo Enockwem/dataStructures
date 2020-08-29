@@ -23,6 +23,7 @@ public class LinkedListArray {
     public boolean isEmpty(){
         return start == null;
     }
+
     // Check size of the linkedList
     public int getSize(){
         return size;
